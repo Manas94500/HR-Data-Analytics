@@ -25,18 +25,9 @@ This project showcases an **HR Analytics Dashboard** built with **Power BI** to 
 ---
 
 ## 📷 Dashboard Preview  
-![HR Analytics Dashboard](d31348a7-192a-40ed-a4b7-c909b1b8fd03.png)
+![HR Analytics Dashboard](https://github.com/Manas94500/HR-Data-Analytics/blob/main/HR%20Data%20Analytics.png)
 
 ---
 
-## 📂 Files in Repository  
-- `HR_Analytics_Dashboard.pbix` → Power BI file  
-- `HR_Analytics_Dashboard.png` → Dashboard snapshot  
-- `README.md` → Project documentation  
+## 🚀 More Screen Shots  
 
----
-
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/hr-analytics-dashboard.git
