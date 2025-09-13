@@ -29,5 +29,10 @@ This project showcases an **HR Analytics Dashboard** built with **Power BI** to 
 
 ---
 
-## 🚀 More Screen Shots  
-
+## 🚀 More Screenshots
+- **Department-Wise Analysis: Human Resources**:
+![Department-Wise Analysis: Human Resources](https://github.com/Manas94500/HR-Data-Analytics/blob/main/HR%20Department.png)
+- **Department-Wise Analysis: Research & Development**:
+![Department-Wise Analysis: Research & Development](https://github.com/Manas94500/HR-Data-Analytics/blob/main/R%26D%20Department.png)
+- **Department-Wise Analysis: Sales**:
+![Department-Wise Analysis: Sales](https://github.com/Manas94500/HR-Data-Analytics/blob/main/Sales%20Department.png)
